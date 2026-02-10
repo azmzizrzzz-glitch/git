@@ -1,3 +1,0 @@
-1`:wq
-i create gpg file and i test it
-again
